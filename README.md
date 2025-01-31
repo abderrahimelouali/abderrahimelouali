@@ -59,26 +59,26 @@ Hello World! I'm Abderrahim, a Moroccan Full-Stack Web Developer 👋🏼:
 
 ---
 
-# ⚡ GitHub Profile Stats ⚡  
-
+## ⚡ GitHub Profile Stats ⚡  
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbderrahimEl-ouali&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abderrahimelouali&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbderrahimEl-ouali" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahimelouali" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=AbderrahimEl-ouali&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=abderrahimelouali&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
     </a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbderrahimEl-ouali&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahimelouali&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
 
 <p align="center">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="GitHub Contribution Snake" />
