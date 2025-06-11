@@ -1,85 +1,113 @@
-<img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black" alt="MERN Stack Logo" width="100%" />
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black" />
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋+I'm+Abderrahim+El+Ouali!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Abderrahim+El+Ouali;Full-Stack+Web+Developer;MERN+Stack+%2B+Laravel+Learner;Welcome+to+my+GitHub+World!" alt="Typing SVG" />
 </h1>
 
-# ⚡ About Me ⚡  
+---
 
+## ⚡ About Me
 
-Hello World! I'm Abderrahim, a Moroccan Full-Stack Web Developer 👋🏼:
+Hello World! I'm **Abderrahim El Ouali** 🇲🇦, a passionate **Full-Stack Web Developer** focused on building fast, scalable, and user-centric apps.
 
-- 🛜 Currently working on personal and collaborative web development projects.  
-- 👨‍🎓 Studying at *L'Institut Spécialisé de Technologie Appliquée à Tinghir*, specializing in Full-Stack Web Development.  
-- 👨‍💻 Passionate about creating efficient, scalable, and user-friendly web applications.  
+- 🎓 Student at *L'Institut Spécialisé de Technologie Appliquée à Tinghir*
+- 💡 Focused on **MERN Stack**, learning **Laravel** intensively
+- ✨ Love clean code, modern design, and impactful user experiences
 
 ---
 
-# 💻 Tech Stack 💻  
+## 🚀 Tech Stack
 
+### 💻 Languages & Frameworks
 
-### Programming Languages & Frameworks:
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-<!-- - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->  
-<!-- - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->  
-<!-- - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->  
- - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-<!-- - ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) -->  
- - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- - ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) -->  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
 
-### Tools & Platforms:
+### 🧰 Tools & Platforms
 
-- ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-<!-- -![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) -->  
-- ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
-<!-- - ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->  
-- ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
 ---
 
-# ⚡ Connect with Me ⚡  
+## 📚 Currently Learning
 
+- 🛠️ **Laravel** – deep dive into controllers, blade, Eloquent, migrations
+- ⚛️ Advanced **React Patterns**
+- 🐳 Docker Basics
+- 📦 API Design Best Practices
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/abderrahim-el/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-    </a>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abderrahimelouali&show_icons=true&theme=material-palenight&count_private=true&hide_title=true&hide_rank=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abderrahimelouali&theme=material-palenight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahimelouali&layout=compact&theme=material-palenight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abderrahimelouali&theme=material-palenight&row=1&column=4" />
 </p>
 
 ---
 
-## ⚡ GitHub Profile Stats ⚡  
+## 👁️ Profile Views
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abderrahimelouali&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=abderrahimelouali&color=00C2CB" alt="profile views" />
 </p>
 
+---
+
+## ⚡ GitHub Activity Graph
+
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahimelouali" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abderrahimelouali&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
 </p>
 
+---
+
+## 🌍 Connect with Me
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | dev.abderrahimelouali@gmail.com |
+| 🌐 Portfolio | [elouali.online](https://elouali.online) |
+| 💼 LinkedIn | [linkedin.com/in/abderrahim-el](https://www.linkedin.com/in/abderrahim-el) |
+| 📷 Instagram | [@abderrahim_elouali04](https://www.instagram.com/abderrahim_elouali04/) |
+| 📺 YouTube | [@Abdecodeweb](https://www.youtube.com/@Abdecodeweb) |
+| 📱 WhatsApp | [wa.me/212707494324](https://wa.me/212707494324) |
+| 📄 CV | [Download CV](https://elouali.online/cv.pdf) |
+| 📞 Phone | +212707494324 |
+
+---
+
+## 🧩 Featured Project
+
+### 📚 [LibriTech – MERN Project](https://library-system-pfe.netlify.app/)
+> A full-featured library system with modern UI, built with React, Node.js, Express, and MongoDB  
+> Developed in collaboration with [Nassim Mzili](https://nassim.online)
+
+---
+
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=abderrahimelouali&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-    </a>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahimelouali&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-
-<p align="center">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="GitHub Contribution Snake" />
-</p>  
